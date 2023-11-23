@@ -1,0 +1,1 @@
+ALTER TABLE cdm.dm_settlement_report ADD CONSTRAINT unique_fields UNIQUE (restaurant_id, settlement_date);
