@@ -25,4 +25,3 @@ class PgSaver:
                     "update_ts": update_ts
                 }
             )
-
